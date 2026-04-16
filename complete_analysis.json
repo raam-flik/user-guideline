@@ -1,0 +1,1069 @@
+{
+  "timestamp": "2026-04-16T09:23:09.987Z",
+  "pages": [
+    {
+      "name": "Home",
+      "path": "/",
+      "title": "Order Form • FLIK Merchant Dashboard",
+      "url": "https://merchant.dev.useflik.com/",
+      "data": {
+        "title": "Order Form • FLIK Merchant Dashboard",
+        "url": "https://merchant.dev.useflik.com/",
+        "headings": [
+          {
+            "level": "H3",
+            "text": "Apakah kamu yakin akan keluar?"
+          },
+          {
+            "level": "H3",
+            "text": "PENERIMAAN DAN PERSETUJUAN"
+          },
+          {
+            "level": "H2",
+            "text": "Akses Cepat"
+          },
+          {
+            "level": "H3",
+            "text": "Invoice online"
+          },
+          {
+            "level": "H3",
+            "text": "Kirim paket"
+          },
+          {
+            "level": "H3",
+            "text": "Order form"
+          },
+          {
+            "level": "H3",
+            "text": "Tambah promo"
+          },
+          {
+            "level": "H3",
+            "text": "Top up saldo"
+          },
+          {
+            "level": "H3",
+            "text": "Lacak pengiriman"
+          },
+          {
+            "level": "H2",
+            "text": "Ringkasan penjualan"
+          },
+          {
+            "level": "H3",
+            "text": "0"
+          },
+          {
+            "level": "H3",
+            "text": "Pencairan"
+          }
+        ],
+        "forms": [
+          {
+            "id": "form_0",
+            "fields": [
+              {
+                "type": "text",
+                "label": "Masukan total pengambilan",
+                "placeholder": "Rp10.000",
+                "required": false,
+                "value": "0"
+              }
+            ],
+            "buttons": [
+              {
+                "text": "100.000",
+                "type": "button"
+              },
+              {
+                "text": "200.000",
+                "type": "button"
+              },
+              {
+                "text": "500.000",
+                "type": "button"
+              },
+              {
+                "text": "1.000.000",
+                "type": "button"
+              }
+            ]
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Book Demo",
+            "type": "button",
+            "class": "rounded-lg border bg-white px-5 py-2.5 text-sm font-medium hover:bg-gray-100 hover:text-gray-900 focus:z-10 focus:outline-none dark:border-gray-500 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white dark:focus:ring-gray-600 w-full border-[#002D5D] text-[#002D5D]"
+          },
+          {
+            "text": "Verifikasi Akun",
+            "type": "button",
+            "class": "flik-button w-full"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "absolute end-2.5 top-3 ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-400 hover:bg-gray-200 hover:text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Ya, saya yakin",
+            "type": "button",
+            "class": "flik-button me-2"
+          },
+          {
+            "text": "Tidak, batalkan",
+            "type": "button",
+            "class": "rounded-lg border border-gray-200 bg-white px-5 py-2.5 text-sm font-medium text-gray-500 hover:bg-gray-100 hover:text-gray-900 focus:z-10 focus:outline-none dark:border-gray-500 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white dark:focus:ring-gray-600"
+          },
+          {
+            "text": "Beli Kredit",
+            "type": "submit",
+            "class": "flik-button flik-button-sm !bg-[#EBF5FF] text-[#1C64F2]"
+          },
+          {
+            "text": "Produk Kami",
+            "type": "submit",
+            "class": "flik-button flik-button-sm flex items-center gap-2 !bg-[#EBF5FF] text-[#1C64F2]"
+          },
+          {
+            "text": "The FLIK Collective",
+            "type": "button",
+            "class": "flex items-center text-sm"
+          },
+          {
+            "text": "Keluar",
+            "type": "submit",
+            "class": "flex w-full items-center gap-2 px-4 py-3 text-left text-sm text-red-500 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Logout",
+            "type": "button",
+            "class": "rounded-lg border bg-white px-5 py-2.5 text-sm font-medium hover:bg-gray-100 hover:text-gray-900 focus:z-10 focus:outline-none dark:border-gray-500 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white dark:focus:ring-gray-600 border-gray-200 text-gray-500"
+          },
+          {
+            "text": "Saya menerima persetujuan ini",
+            "type": "button",
+            "class": "flik-button-secondary"
+          },
+          {
+            "text": "Jumlah transaksi",
+            "type": "button",
+            "class": "border-[#1A56DB] bg-[#EBF5FF] text-[#1A56DB] flex items-center justify-start gap-2.5 rounded-bl-lg rounded-tl-lg bg-blue-50 px-4 py-3"
+          },
+          {
+            "text": "Total GMV",
+            "type": "button",
+            "class": "text-[#9CA3AF] flex items-center justify-start gap-2.5 rounded-br-lg rounded-tr-lg bg-gray-50 px-4 py-3"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "100.000",
+            "type": "button",
+            "class": "badge rounded-md bg-gray-100 px-3 py-[2px] !text-sm font-medium"
+          },
+          {
+            "text": "200.000",
+            "type": "button",
+            "class": "badge rounded-md bg-gray-100 px-3 py-[2px] !text-sm font-medium"
+          },
+          {
+            "text": "500.000",
+            "type": "button",
+            "class": "badge rounded-md bg-gray-100 px-3 py-[2px] !text-sm font-medium"
+          },
+          {
+            "text": "1.000.000",
+            "type": "button",
+            "class": "badge rounded-md bg-gray-100 px-3 py-[2px] !text-sm font-medium"
+          },
+          {
+            "text": "Pencairan",
+            "type": "button",
+            "class": "flik-button-secondary"
+          }
+        ],
+        "links": [
+          {
+            "text": "Home",
+            "href": "/"
+          },
+          {
+            "text": "Dashboard",
+            "href": "/dashboard/"
+          },
+          {
+            "text": "Saldo",
+            "href": "/saldo/"
+          },
+          {
+            "text": "Pengaturan Akun",
+            "href": "/pengaturan/profil/"
+          },
+          {
+            "text": "Warehouse",
+            "href": "/pengaturan/warehouse/"
+          },
+          {
+            "text": "Profil",
+            "href": "/pengaturan/profil/"
+          },
+          {
+            "text": "+ Invoice",
+            "href": "/flik-checkout/invoice/"
+          },
+          {
+            "text": "+ Pengiriman",
+            "href": "/flik-shipping/pengirim/"
+          },
+          {
+            "text": "+ Order Form",
+            "href": "/flik-checkout/order-form/list/"
+          },
+          {
+            "text": "+ Promo",
+            "href": "/promosi/voucher/"
+          },
+          {
+            "text": "+ Saldo",
+            "href": "/saldo/"
+          }
+        ],
+        "tables": [],
+        "modals": [],
+        "text": [
+          "Close modalApakah kamu yakin akan keluar?Ya, saya yakinTidak, batalkanRp3.357.896.931 Beli Kredit  Produk Kami The FLIK Collective Pengaturan Akun  Warehouse  Profil  Terms & Condition  Keluar PENERIMAAN DAN PERSETUJUAN Mohon periksa data dan informasi penting di bawah ini. Data dan informasi ini akan berdampak pada layanan FLIK yang berkaitan dengan penerimaan dana penjualan.  Brand: The FLIK Collective Komisi FLIK: 2% Biaya Layanan Pembayaran: Berdasarkan biaya layanan yang berlaku.  Nama Bank"
+        ]
+      }
+    },
+    {
+      "name": "Dashboard",
+      "path": "/dashboard/",
+      "title": "Dashboard • FLIK Merchant Dashboard",
+      "url": "https://merchant.dev.useflik.com/dashboard/",
+      "data": {
+        "title": "Dashboard • FLIK Merchant Dashboard",
+        "url": "https://merchant.dev.useflik.com/dashboard/",
+        "headings": [
+          {
+            "level": "H3",
+            "text": "Apakah kamu yakin akan keluar?"
+          },
+          {
+            "level": "H3",
+            "text": "Kredit"
+          },
+          {
+            "level": "H3",
+            "text": "Total Penghasilan"
+          },
+          {
+            "level": "H3",
+            "text": "Kamu Hemat"
+          },
+          {
+            "level": "H3",
+            "text": "Checkout"
+          },
+          {
+            "level": "H3",
+            "text": "Invoice"
+          },
+          {
+            "level": "H3",
+            "text": "Pengiriman"
+          },
+          {
+            "level": "H3",
+            "text": "Pengiriman Bermasalah"
+          },
+          {
+            "level": "H3",
+            "text": "Pencairan"
+          }
+        ],
+        "forms": [
+          {
+            "id": "form_0",
+            "fields": [
+              {
+                "type": "text",
+                "label": "Masukan total pengambilan",
+                "placeholder": "Rp10.000",
+                "required": false,
+                "value": "0"
+              }
+            ],
+            "buttons": [
+              {
+                "text": "100.000",
+                "type": "button"
+              },
+              {
+                "text": "200.000",
+                "type": "button"
+              },
+              {
+                "text": "500.000",
+                "type": "button"
+              },
+              {
+                "text": "1.000.000",
+                "type": "button"
+              }
+            ]
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Book Demo",
+            "type": "button",
+            "class": "rounded-lg border bg-white px-5 py-2.5 text-sm font-medium hover:bg-gray-100 hover:text-gray-900 focus:z-10 focus:outline-none dark:border-gray-500 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white dark:focus:ring-gray-600 w-full border-[#002D5D] text-[#002D5D]"
+          },
+          {
+            "text": "Verifikasi Akun",
+            "type": "button",
+            "class": "flik-button w-full"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "absolute end-2.5 top-3 ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-400 hover:bg-gray-200 hover:text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Ya, saya yakin",
+            "type": "button",
+            "class": "flik-button me-2"
+          },
+          {
+            "text": "Tidak, batalkan",
+            "type": "button",
+            "class": "rounded-lg border border-gray-200 bg-white px-5 py-2.5 text-sm font-medium text-gray-500 hover:bg-gray-100 hover:text-gray-900 focus:z-10 focus:outline-none dark:border-gray-500 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white dark:focus:ring-gray-600"
+          },
+          {
+            "text": "Beli Kredit",
+            "type": "submit",
+            "class": "flik-button flik-button-sm !bg-[#EBF5FF] text-[#1C64F2]"
+          },
+          {
+            "text": "Produk Kami",
+            "type": "submit",
+            "class": "flik-button flik-button-sm flex items-center gap-2 !bg-[#EBF5FF] text-[#1C64F2]"
+          },
+          {
+            "text": "The FLIK Collective",
+            "type": "button",
+            "class": "flex items-center text-sm"
+          },
+          {
+            "text": "Keluar",
+            "type": "submit",
+            "class": "flex w-full items-center gap-2 px-4 py-3 text-left text-sm text-red-500 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "100.000",
+            "type": "button",
+            "class": "badge rounded-md bg-gray-100 px-3 py-[2px] !text-sm font-medium"
+          },
+          {
+            "text": "200.000",
+            "type": "button",
+            "class": "badge rounded-md bg-gray-100 px-3 py-[2px] !text-sm font-medium"
+          },
+          {
+            "text": "500.000",
+            "type": "button",
+            "class": "badge rounded-md bg-gray-100 px-3 py-[2px] !text-sm font-medium"
+          },
+          {
+            "text": "1.000.000",
+            "type": "button",
+            "class": "badge rounded-md bg-gray-100 px-3 py-[2px] !text-sm font-medium"
+          },
+          {
+            "text": "Pencairan",
+            "type": "button",
+            "class": "flik-button-secondary"
+          }
+        ],
+        "links": [
+          {
+            "text": "Home",
+            "href": "/"
+          },
+          {
+            "text": "Dashboard",
+            "href": "/dashboard/"
+          },
+          {
+            "text": "Saldo",
+            "href": "/saldo/"
+          },
+          {
+            "text": "Pengaturan Akun",
+            "href": "/pengaturan/profil/"
+          },
+          {
+            "text": "Warehouse",
+            "href": "/pengaturan/warehouse/"
+          },
+          {
+            "text": "Profil",
+            "href": "/pengaturan/profil/"
+          },
+          {
+            "text": "Pengiriman Bermasalah",
+            "href": "/flik-shipping/pengirim/"
+          },
+          {
+            "text": "No update 48 jam0",
+            "href": "/flik-shipping/pengirim/"
+          },
+          {
+            "text": "No update 4 hari7",
+            "href": "/flik-shipping/pengirim/"
+          },
+          {
+            "text": "Dibatalkan1",
+            "href": "/flik-shipping/pengirim/"
+          }
+        ],
+        "tables": [],
+        "modals": [],
+        "text": [
+          "Close modalApakah kamu yakin akan keluar?Ya, saya yakinTidak, batalkanRp3.357.896.931 Beli Kredit  Produk Kami The FLIK Collective Pengaturan Akun  Warehouse  Profil  Terms & Condition  Keluar KreditRp3.357.896.931Total PenghasilanRp1.907.753.293Kamu HematRp0CheckoutOrder Selesai1337Terkirim0Dalam Pengiriman11Sudah Dibayar3248Tunggu Pembayaran27Order Ditolak564InvoiceSelesai192Sudah Dibayar0Tunggu Pembayaran0Dilihat0Dibuat10PengirimanPengiriman Selesai4Dikembalikan0Tunggu Pencairan (COD)0Pengemb"
+        ]
+      }
+    },
+    {
+      "name": "Saldo",
+      "path": "/saldo/",
+      "title": "Saldo • FLIK Merchant Dashboard",
+      "url": "https://merchant.dev.useflik.com/saldo/",
+      "data": {
+        "title": "Saldo • FLIK Merchant Dashboard",
+        "url": "https://merchant.dev.useflik.com/saldo/",
+        "headings": [
+          {
+            "level": "H3",
+            "text": "Apakah kamu yakin akan keluar?"
+          },
+          {
+            "level": "H1",
+            "text": "Saldo"
+          },
+          {
+            "level": "H3",
+            "text": "Konfirmasi"
+          },
+          {
+            "level": "H3",
+            "text": "Pilih Akun Bank"
+          },
+          {
+            "level": "H3",
+            "text": "Tambah Akun Bank"
+          },
+          {
+            "level": "H3",
+            "text": "Pengaturan Akun"
+          },
+          {
+            "level": "H3",
+            "text": "Verifikasi"
+          },
+          {
+            "level": "H3",
+            "text": "Filter"
+          },
+          {
+            "level": "H3",
+            "text": "Cetak Label"
+          },
+          {
+            "level": "H3",
+            "text": "Yakin ingin membatalkan batch ini?"
+          },
+          {
+            "level": "H3",
+            "text": "Set kasir →  ?"
+          },
+          {
+            "level": "H3",
+            "text": "Pencairan"
+          }
+        ],
+        "forms": [
+          {
+            "id": "form_0",
+            "fields": [
+              {
+                "type": "text",
+                "label": "Nama Bank",
+                "placeholder": "",
+                "required": false,
+                "value": ""
+              },
+              {
+                "type": "text",
+                "label": "Nomor Rekening",
+                "placeholder": "Tulis nomor rekening",
+                "required": false,
+                "value": ""
+              },
+              {
+                "type": "text",
+                "label": "Nama Pemilik Bank",
+                "placeholder": "Tulis nama dari pemilik bank",
+                "required": false,
+                "value": ""
+              }
+            ],
+            "buttons": []
+          },
+          {
+            "id": "form_1",
+            "fields": [
+              {
+                "type": "text",
+                "label": "Masukan total pengambilan",
+                "placeholder": "Rp10.000",
+                "required": false,
+                "value": "0"
+              }
+            ],
+            "buttons": [
+              {
+                "text": "100.000",
+                "type": "button"
+              },
+              {
+                "text": "200.000",
+                "type": "button"
+              },
+              {
+                "text": "500.000",
+                "type": "button"
+              },
+              {
+                "text": "1.000.000",
+                "type": "button"
+              }
+            ]
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Book Demo",
+            "type": "button",
+            "class": "rounded-lg border bg-white px-5 py-2.5 text-sm font-medium hover:bg-gray-100 hover:text-gray-900 focus:z-10 focus:outline-none dark:border-gray-500 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white dark:focus:ring-gray-600 w-full border-[#002D5D] text-[#002D5D]"
+          },
+          {
+            "text": "Verifikasi Akun",
+            "type": "button",
+            "class": "flik-button w-full"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "absolute end-2.5 top-3 ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-400 hover:bg-gray-200 hover:text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Ya, saya yakin",
+            "type": "button",
+            "class": "flik-button me-2"
+          },
+          {
+            "text": "Tidak, batalkan",
+            "type": "button",
+            "class": "rounded-lg border border-gray-200 bg-white px-5 py-2.5 text-sm font-medium text-gray-500 hover:bg-gray-100 hover:text-gray-900 focus:z-10 focus:outline-none dark:border-gray-500 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white dark:focus:ring-gray-600"
+          },
+          {
+            "text": "Beli Kredit",
+            "type": "submit",
+            "class": "flik-button flik-button-sm !bg-[#EBF5FF] text-[#1C64F2]"
+          },
+          {
+            "text": "Produk Kami",
+            "type": "submit",
+            "class": "flik-button flik-button-sm flex items-center gap-2 !bg-[#EBF5FF] text-[#1C64F2]"
+          },
+          {
+            "text": "The FLIK Collective",
+            "type": "button",
+            "class": "flex items-center text-sm"
+          },
+          {
+            "text": "Keluar",
+            "type": "submit",
+            "class": "flex w-full items-center gap-2 px-4 py-3 text-left text-sm text-red-500 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Proses",
+            "type": "button",
+            "class": "flik-button ml-auto"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Pengaturan Akun",
+            "type": "button",
+            "class": "rounded-lg border bg-white px-5 py-2.5 text-sm font-medium hover:bg-gray-100 hover:text-gray-900 focus:z-10 focus:outline-none dark:border-gray-500 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white dark:focus:ring-gray-600 border-gray-200 text-gray-500"
+          },
+          {
+            "text": "Cairkan",
+            "type": "button",
+            "class": "flik-button"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Simpan",
+            "type": "button",
+            "class": "flik-button ml-auto"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Ganti Nomor Rekening",
+            "type": "button",
+            "class": "flik-button ml-auto"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "WhatsApp",
+            "type": "button",
+            "class": "text-blue-600"
+          },
+          {
+            "text": "Email",
+            "type": "button",
+            "class": "text-blue-600"
+          },
+          {
+            "text": "Verifikasi",
+            "type": "button",
+            "class": "flik-button ml-auto disabled:bg-opacity-25"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Tipe Transaksi",
+            "type": "submit",
+            "class": "flik-button-secondary relative flex h-[46px] w-full items-center gap-2 truncate border pl-3.5 pr-7 text-left capitalize border-gray-300 bg-gray-50"
+          },
+          {
+            "text": "Hapus Semua Filter",
+            "type": "button",
+            "class": "rounded-lg border bg-white px-5 py-2.5 text-sm font-medium hover:bg-gray-100 hover:text-gray-900 focus:z-10 focus:outline-none dark:border-gray-500 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white dark:focus:ring-gray-600 border-gray-200 text-gray-500"
+          },
+          {
+            "text": "Terapkan Filter",
+            "type": "button",
+            "class": "flik-button"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "absolute end-2.5 top-3 ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-400 hover:bg-gray-200 hover:text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Ya, saya yakin",
+            "type": "button",
+            "class": "flik-button me-2"
+          },
+          {
+            "text": "Tidak, batalkan",
+            "type": "button",
+            "class": "rounded-lg border border-gray-200 bg-white px-5 py-2.5 text-sm font-medium text-gray-500 hover:bg-gray-100 hover:text-gray-900 focus:z-10 focus:outline-none dark:border-gray-500 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white dark:focus:ring-gray-600"
+          },
+          {
+            "text": "Beli Kredit",
+            "type": "submit",
+            "class": "flik-button flex flex-row gap-2"
+          },
+          {
+            "text": "Cairkan Dana",
+            "type": "submit",
+            "class": "flik-button-outline inline-flex items-center gap-2 disabled:opacity-50"
+          },
+          {
+            "text": "Pengaturan Akun",
+            "type": "submit",
+            "class": "flik-button-light flex flex-row items-center"
+          },
+          {
+            "text": "Hari ini",
+            "type": "submit",
+            "class": "block w-full px-4 py-3 text-left text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "7 Hari yang lalu",
+            "type": "submit",
+            "class": "block w-full px-4 py-3 text-left text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "30 Hari yang lalu",
+            "type": "submit",
+            "class": "block w-full px-4 py-3 text-left text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Minggu ini",
+            "type": "submit",
+            "class": "block w-full px-4 py-3 text-left text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Bulan ini",
+            "type": "submit",
+            "class": "block w-full px-4 py-3 text-left text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Pilih tanggal sendiri",
+            "type": "submit",
+            "class": "block w-full px-4 py-3 text-left text-sm text-gray-700 hover:bg-gray-100 dark:text-gray-200 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Tipe Transaksi",
+            "type": "submit",
+            "class": "flik-button-secondary relative flex h-[46px] w-full items-center gap-2 truncate border pl-3.5 pr-7 text-left capitalize border-gray-300 bg-gray-50 min-w-[200px] bg-white"
+          },
+          {
+            "text": "Export",
+            "type": "submit",
+            "class": "flik-button flex w-full items-center justify-center gap-2 !py-[13px] md:w-auto md:justify-start"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "1 Label Per HalamanDirekomendasikan di cetak di A4 atau A5",
+            "type": "submit",
+            "class": "flex items-center gap-4 rounded-lg border border-gray-200 p-4 text-left"
+          },
+          {
+            "text": "3 Label Per HalamanDirekomendasikan di cetak di A4 atau A5",
+            "type": "submit",
+            "class": "flex items-center gap-4 rounded-lg border border-gray-200 p-4 text-left"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "absolute end-2.5 top-3 ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-400 hover:bg-gray-200 hover:text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Ya, saya yakin",
+            "type": "button",
+            "class": "flik-button me-2"
+          },
+          {
+            "text": "Tidak, batalkan",
+            "type": "button",
+            "class": "rounded-lg border border-gray-200 bg-white px-5 py-2.5 text-sm font-medium text-gray-500 hover:bg-gray-100 hover:text-gray-900 focus:z-10 focus:outline-none dark:border-gray-500 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white dark:focus:ring-gray-600"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "absolute end-2.5 top-3 ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-400 hover:bg-gray-200 hover:text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "Ya, saya yakin",
+            "type": "button",
+            "class": "flik-button me-2"
+          },
+          {
+            "text": "Tidak, batalkan",
+            "type": "button",
+            "class": "rounded-lg border border-gray-200 bg-white px-5 py-2.5 text-sm font-medium text-gray-500 hover:bg-gray-100 hover:text-gray-900 focus:z-10 focus:outline-none dark:border-gray-500 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 dark:hover:text-white dark:focus:ring-gray-600"
+          },
+          {
+            "text": "ID",
+            "type": "submit",
+            "class": "flex w-full items-center gap-2 cursor-default justify-start"
+          },
+          {
+            "text": "Waktu",
+            "type": "submit",
+            "class": "flex w-full items-center gap-2 cursor-default justify-start"
+          },
+          {
+            "text": "No. Referensi",
+            "type": "submit",
+            "class": "flex w-full items-center gap-2 cursor-default justify-start"
+          },
+          {
+            "text": "Tipe",
+            "type": "submit",
+            "class": "flex w-full items-center gap-2 cursor-default justify-start"
+          },
+          {
+            "text": "Nominal",
+            "type": "submit",
+            "class": "flex w-full items-center gap-2 cursor-default justify-start"
+          },
+          {
+            "text": "Prev",
+            "type": "submit",
+            "class": "ml-0 flex h-8 items-center justify-center gap-1 border border-gray-300 bg-white px-3 leading-tight text-gray-500 first:rounded-l-lg last:rounded-r-lg hover:bg-gray-100 hover:text-gray-700 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white disabled:cursor-not-allowed disabled:opacity-50"
+          },
+          {
+            "text": "1",
+            "type": "submit",
+            "class": "h-8 items-center justify-center border border-r-0 border-gray-200 px-3 text-sm leading-tight dark:border-gray-700 dark:hover:bg-gray-700 dark:hover:text-white hidden md:block bg-blue-50 text-blue-600 hover:bg-blue-100 hover:text-blue-700 dark:bg-gray-700 dark:text-white"
+          },
+          {
+            "text": "2",
+            "type": "submit",
+            "class": "h-8 items-center justify-center border border-r-0 border-gray-200 bg-white px-3 text-sm leading-tight text-gray-500 hover:bg-gray-100 hover:text-gray-700 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white hidden md:block"
+          },
+          {
+            "text": "3",
+            "type": "submit",
+            "class": "h-8 items-center justify-center border border-r-0 border-gray-200 bg-white px-3 text-sm leading-tight text-gray-500 hover:bg-gray-100 hover:text-gray-700 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white hidden md:block"
+          },
+          {
+            "text": "4",
+            "type": "submit",
+            "class": "h-8 items-center justify-center border border-r-0 border-gray-200 bg-white px-3 text-sm leading-tight text-gray-500 hover:bg-gray-100 hover:text-gray-700 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white hidden md:block"
+          },
+          {
+            "text": "5",
+            "type": "submit",
+            "class": "h-8 items-center justify-center border border-r-0 border-gray-200 bg-white px-3 text-sm leading-tight text-gray-500 hover:bg-gray-100 hover:text-gray-700 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white hidden md:block"
+          },
+          {
+            "text": "Next",
+            "type": "submit",
+            "class": "ml-0 flex h-8 items-center justify-center gap-1 border border-gray-300 bg-white px-3 leading-tight text-gray-500 first:rounded-l-lg last:rounded-r-lg hover:bg-gray-100 hover:text-gray-700 dark:border-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700 dark:hover:text-white"
+          },
+          {
+            "text": "Close modal",
+            "type": "button",
+            "class": "ms-auto inline-flex h-8 w-8 items-center justify-center rounded-lg bg-transparent text-sm text-gray-900 dark:hover:bg-gray-600 dark:hover:text-white"
+          },
+          {
+            "text": "100.000",
+            "type": "button",
+            "class": "badge rounded-md bg-gray-100 px-3 py-[2px] !text-sm font-medium"
+          },
+          {
+            "text": "200.000",
+            "type": "button",
+            "class": "badge rounded-md bg-gray-100 px-3 py-[2px] !text-sm font-medium"
+          },
+          {
+            "text": "500.000",
+            "type": "button",
+            "class": "badge rounded-md bg-gray-100 px-3 py-[2px] !text-sm font-medium"
+          },
+          {
+            "text": "1.000.000",
+            "type": "button",
+            "class": "badge rounded-md bg-gray-100 px-3 py-[2px] !text-sm font-medium"
+          },
+          {
+            "text": "Pencairan",
+            "type": "button",
+            "class": "flik-button-secondary"
+          }
+        ],
+        "links": [
+          {
+            "text": "Home",
+            "href": "/"
+          },
+          {
+            "text": "Dashboard",
+            "href": "/dashboard/"
+          },
+          {
+            "text": "Saldo",
+            "href": "/saldo/"
+          },
+          {
+            "text": "Pengaturan Akun",
+            "href": "/pengaturan/profil/"
+          },
+          {
+            "text": "Warehouse",
+            "href": "/pengaturan/warehouse/"
+          },
+          {
+            "text": "Profil",
+            "href": "/pengaturan/profil/"
+          },
+          {
+            "text": "E10091EB",
+            "href": "/order/e10091eb-ceb4-44cb-a8f8-a32f5636b00f"
+          },
+          {
+            "text": "E10091EB",
+            "href": "/order/e10091eb-ceb4-44cb-a8f8-a32f5636b00f"
+          },
+          {
+            "text": "E10091EB",
+            "href": "/order/e10091eb-ceb4-44cb-a8f8-a32f5636b00f"
+          },
+          {
+            "text": "E10091EB",
+            "href": "/order/e10091eb-ceb4-44cb-a8f8-a32f5636b00f"
+          },
+          {
+            "text": "E10091EB",
+            "href": "/order/e10091eb-ceb4-44cb-a8f8-a32f5636b00f"
+          },
+          {
+            "text": "E10091EB",
+            "href": "/order/e10091eb-ceb4-44cb-a8f8-a32f5636b00f"
+          },
+          {
+            "text": "E89C4930",
+            "href": "/order/e89c4930-d6ca-4f00-b212-11585b83b5ac"
+          },
+          {
+            "text": "E89C4930",
+            "href": "/order/e89c4930-d6ca-4f00-b212-11585b83b5ac"
+          },
+          {
+            "text": "E89C4930",
+            "href": "/order/e89c4930-d6ca-4f00-b212-11585b83b5ac"
+          },
+          {
+            "text": "E89C4930",
+            "href": "/order/e89c4930-d6ca-4f00-b212-11585b83b5ac"
+          }
+        ],
+        "tables": [
+          {
+            "index": 0,
+            "headers": [
+              "ID",
+              "Waktu",
+              "No. Referensi",
+              "Tipe",
+              "Nominal"
+            ],
+            "rows": [
+              [
+                "6CF4E421",
+                "Apr 13, 2026 10:32",
+                "E10091EB",
+                "Komisi",
+                "-Rp7.702"
+              ],
+              [
+                "25EB6E5D",
+                "Apr 13, 2026 10:32",
+                "E10091EB",
+                "Diskon Merchant",
+                "-Rp17.328"
+              ]
+            ]
+          }
+        ],
+        "modals": [],
+        "text": [
+          "Close modalApakah kamu yakin akan keluar?Ya, saya yakinTidak, batalkanSaldoRp3.357.896.931 Beli Kredit  Produk Kami The FLIK Collective Pengaturan Akun  Warehouse  Profil  Terms & Condition  Keluar Konfirmasi Close modal Rp0Jumlah pencairanJumlah pencairanBiaya LayananFREETotal Rp0 Pencairan dana akan masuk ke rekening paling lambat 3 hari kerja ProsesPilih Akun Bank Close modal Jumlah pencairan ALLO BANK INDONESIA ******* 2181Rekening utama Pengaturan Akun CairkanTambah Akun Bank Close modal In"
+        ]
+      }
+    }
+  ],
+  "allMenus": [
+    {
+      "text": "Home",
+      "href": "/"
+    },
+    {
+      "text": "Dashboard",
+      "href": "/dashboard/"
+    },
+    {
+      "text": "Saldo",
+      "href": "/saldo/"
+    },
+    {
+      "text": "Pengaturan Akun",
+      "href": "/pengaturan/profil/"
+    },
+    {
+      "text": "Warehouse",
+      "href": "/pengaturan/warehouse/"
+    },
+    {
+      "text": "Profil",
+      "href": "/pengaturan/profil/"
+    },
+    {
+      "text": "+ Invoice",
+      "href": "/flik-checkout/invoice/"
+    },
+    {
+      "text": "+ Pengiriman",
+      "href": "/flik-shipping/pengirim/"
+    },
+    {
+      "text": "+ Order Form",
+      "href": "/flik-checkout/order-form/list/"
+    },
+    {
+      "text": "+ Promo",
+      "href": "/promosi/voucher/"
+    },
+    {
+      "text": "+ Saldo",
+      "href": "/saldo/"
+    }
+  ],
+  "allButtons": [],
+  "allForms": [],
+  "allTables": [],
+  "allModals": [],
+  "interactions": []
+}
